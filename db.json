@@ -1,0 +1,10 @@
+{
+  "products": [
+    { "id": 1, "name": "Stylish T-Shirt", "price": 29.99, "image": "https://picsum.photos/300/200?random=1" },
+    { "id": 2, "name": "Comfortable Jeans", "price": 59.99, "image": "https://picsum.photos/300/200?random=2" },
+    { "id": 3, "name": "Elegant Dress", "price": 89.99, "image": "https://picsum.photos/300/200?random=3" },
+    { "id": 4, "name": "Casual Sneakers", "price": 79.99, "image": "https://picsum.photos/300/200?random=4" },
+    { "id": 5, "name": "Cozy Sweater", "price": 49.99, "image": "https://picsum.photos/300/200?random=5" },
+    { "id": 6, "name": "Leather Jacket", "price": 129.99, "image": "https://picsum.photos/300/200?random=6" }
+  ]
+}
